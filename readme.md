@@ -1,5 +1,7 @@
 # The origin of Vierordt's law
 
+**Stefan Glasauer, Zhuanghua Shi**
+
 ## Abstract
 
 In 1868, Karl Vierordt discovered one type of errors in time perception?an overestimation of short duration and underestima-tion 
