@@ -19,5 +19,5 @@ We concluded that Vierordt?s law is caused by an unnatural yet widely used exper
 2. data_fit_paper.m - simulate and fit the experimental data
 3. fitdata1pv.m and kmodel1pv.m - optimization functions
 
-## Citatioin
+## Citation
 Glasauer, S., & Shi, Z. (2021). The origin of Vierordt?s law: The experimental protocol matters. PsyCh Journal, pchj.464. https://doi.org/10.1002/pchj.464
